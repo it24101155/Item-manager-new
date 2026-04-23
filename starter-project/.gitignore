@@ -1,0 +1,9 @@
+# Exclude sensitive files
+node_modules/
+.env
+.DS_Store
+*.log
+npm-debug.log*
+.eslintcache
+dist/
+build/
